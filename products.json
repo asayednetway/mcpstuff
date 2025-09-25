@@ -1,0 +1,142 @@
+[
+  {
+    "id": "P1021",
+    "name": "Apple iPhone 15 Pro Max",
+    "description": "6.7-inch Super Retina XDR display, A17 Pro chip, 256GB storage, ProMotion 120Hz, titanium design.",
+    "price": 1299.00,
+    "currency": "USD",
+    "category": "Electronics > Mobile Phones > Smartphones",
+    "vendor": {
+      "name": "Apple Store",
+      "location": { "city": "Cupertino", "state": "California", "country": "USA" }
+    },
+    "stock": 90,
+    "rating": 4.9
+  },
+  {
+    "id": "P1022",
+    "name": "Apple iPhone 15 Plus",
+    "description": "6.7-inch display, A16 Bionic chip, 128GB storage, all-day battery life with advanced dual-camera system.",
+    "price": 999.00,
+    "currency": "USD",
+    "category": "Electronics > Mobile Phones > Smartphones",
+    "vendor": {
+      "name": "Apple Authorized Reseller",
+      "location": { "city": "New York", "state": "New York", "country": "USA" }
+    },
+    "stock": 110,
+    "rating": 4.7
+  },
+  {
+    "id": "P1023",
+    "name": "Apple AirPods Pro 2nd Gen",
+    "description": "Wireless earbuds with active noise cancellation, adaptive transparency, spatial audio, and MagSafe charging case.",
+    "price": 249.00,
+    "currency": "USD",
+    "category": "Electronics > Audio > Earbuds",
+    "vendor": {
+      "name": "Apple Store",
+      "location": { "city": "Cupertino", "state": "California", "country": "USA" }
+    },
+    "stock": 250,
+    "rating": 4.6
+  },
+  {
+    "id": "P1024",
+    "name": "Nike Air Max 270",
+    "description": "Lifestyle sneakers with a large Air Max unit, breathable mesh, and lightweight cushioning.",
+    "price": 150.00,
+    "currency": "USD",
+    "category": "Fashion > Footwear > Sneakers",
+    "vendor": {
+      "name": "Nike",
+      "location": { "city": "Beaverton", "state": "Oregon", "country": "USA" }
+    },
+    "stock": 300,
+    "rating": 4.5
+  },
+  {
+    "id": "P1025",
+    "name": "Nike Air Max 90",
+    "description": "Classic running-inspired sneakers featuring leather overlays, durable rubber outsole, and iconic style.",
+    "price": 130.00,
+    "currency": "USD",
+    "category": "Fashion > Footwear > Sneakers",
+    "vendor": {
+      "name": "Nike",
+      "location": { "city": "Beaverton", "state": "Oregon", "country": "USA" }
+    },
+    "stock": 280,
+    "rating": 4.6
+  },
+  {
+    "id": "P1026",
+    "name": "Nike Air Force 1 Low",
+    "description": "Timeless basketball shoes with premium leather upper, cushioned midsole, and streetwear design.",
+    "price": 120.00,
+    "currency": "USD",
+    "category": "Fashion > Footwear > Sneakers",
+    "vendor": {
+      "name": "Nike",
+      "location": { "city": "Beaverton", "state": "Oregon", "country": "USA" }
+    },
+    "stock": 350,
+    "rating": 4.7
+  },
+  {
+    "id": "P1027",
+    "name": "Adidas Yeezy Boost 350 V2",
+    "description": "Designer sneakers with Primeknit upper, responsive Boost midsole, and signature Yeezy design.",
+    "price": 220.00,
+    "currency": "USD",
+    "category": "Fashion > Footwear > Sneakers",
+    "vendor": {
+      "name": "Adidas Originals",
+      "location": { "city": "Herzogenaurach", "state": null, "country": "Germany" }
+    },
+    "stock": 150,
+    "rating": 4.8
+  },
+  {
+    "id": "P1028",
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "6.8-inch QHD+ AMOLED display, Snapdragon 8 Gen 3, 200MP quad-camera system, 5000mAh battery.",
+    "price": 1199.99,
+    "currency": "USD",
+    "category": "Electronics > Mobile Phones > Smartphones",
+    "vendor": {
+      "name": "Samsung Store",
+      "location": { "city": "Seoul", "state": null, "country": "South Korea" }
+    },
+    "stock": 130,
+    "rating": 4.8
+  },
+  {
+    "id": "P1029",
+    "name": "Google Pixel 8 Pro",
+    "description": "6.7-inch OLED display, Google Tensor G3, 50MP camera with advanced AI photo editing, and 7 years of updates.",
+    "price": 999.00,
+    "currency": "USD",
+    "category": "Electronics > Mobile Phones > Smartphones",
+    "vendor": {
+      "name": "Google Store",
+      "location": { "city": "Mountain View", "state": "California", "country": "USA" }
+    },
+    "stock": 140,
+    "rating": 4.6
+  },
+  {
+    "id": "P1030",
+    "name": "Sony PlayStation 5 Console",
+    "description": "Next-gen gaming console with 4K graphics, ultra-fast SSD, and immersive DualSense controller.",
+    "price": 499.99,
+    "currency": "USD",
+    "category": "Electronics > Gaming > Consoles",
+    "vendor": {
+      "name": "Sony PlayStation",
+      "location": { "city": "Tokyo", "state": null, "country": "Japan" }
+    },
+    "stock": 85,
+    "rating": 4.9
+  }
+]
